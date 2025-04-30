@@ -1,7 +1,7 @@
 
 # OctoPass - Password Generator and Manager
 
-<img src="https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/gui0.PNG" width="500"> <img src="https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/guiBP0.PNG" width="500">
+<img src="https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/gui0.PNG" width="400"> <img src="https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/guiBP0.PNG" width="400">
 
 
 OctoPass is open source software written in Python, combining a comprehensive, secure and customizable password manager and generator.
