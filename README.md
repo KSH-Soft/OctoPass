@@ -32,6 +32,9 @@ Translated into English and French
 - 📁 Operates entirely locally, on USB stick, external disk, server or remote machine
 
 🖥️ The interface is available in two versions: retro and modern, to suit your preferred style.
+
+🛡 An example database is available [HERE](https://github.com/KSH-Soft/OctoPass/raw/refs/heads/main/OctoBase.OP) (it contains 3 accounts and 1 image).
+
 ## Demo
 
 ![App Demo](https://github.com/KSH-Soft/OctoPass/blob/main/img/GUIBP.gif?raw=true)
