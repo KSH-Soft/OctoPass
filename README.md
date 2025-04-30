@@ -38,16 +38,16 @@ Translated into English and French
 
 
 ## Screenshots GUI EN & FR
+<img src="https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/gui0.PNG" width="400">
 
-![App Screenshot](https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/gui0.PNG)
+<img src="https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/gui0FR.PNG" width="400">
 
-![App Screenshot](https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/gui0FR.PNG)
+<img src="https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/guiBP0.PNG" width="400">
 
-![App Screenshot](https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/guiBP0.PNG)
+<img src="https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/guiBP0FR.PNG" width="400">
 
-![App Screenshot](https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/guiBP0FR.PNG)
+<img src="https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/guiBPParam.PNG" width="400">
 
-![App Screenshot](https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/guiBPParam.PNG)
 
 
 ## Roadmap
