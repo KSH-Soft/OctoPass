@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/gui0.PNG" width="400"> <img src="https://raw.githubusercontent.com/KSH-Soft/OctoPass/refs/heads/main/img/guiBP0.PNG" width="400">
 
 
-OctoPass is open source software written in Python, combining a comprehensive, secure and customizable password manager and generator.
+OctoPass is software written in Python, combining a comprehensive, secure and customizable password manager and generator.
 Translated into English and French
 
 🔐 Main features:
